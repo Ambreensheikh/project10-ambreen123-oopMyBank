@@ -1,0 +1,25 @@
+{
+  "name": "project10ambreen123-oop-mybank-ts",
+  "version": "2.0.1",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  },
+  "dependencies": {
+    "@faker-js/faker": "^9.0.1",
+    "chalk": "^4.1.2",
+    "inquirer": "^9.2.22"
+  }
+}
